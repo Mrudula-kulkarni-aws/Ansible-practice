@@ -1,0 +1,7 @@
+---
+plugin: amazon.aws.aws_ec2
+aws_access_key: AKIAWBJBPU3E2QAMADIM
+aws_secret_key: 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
+keyed_groups:
+  - key: tags
+    prefix: tag
